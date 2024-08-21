@@ -1,8 +1,2 @@
-deepspeech
-av
-numpy
-pydub
 streamlit
-streamlit-webrtc
-twilio
-
+streamlit-audiorec
