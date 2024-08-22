@@ -1,9 +1,7 @@
 streamlit
 google-generativeai
 deep-translator
-datasets
 audio-recorder-streamlit
 SpeechRecognition
 gtts
 pyttsx3
-textblob
